@@ -1,4 +1,4 @@
-# 👋 Hola, Soy Kenneth!
+# 👋 Kenneth!
 
 ##### AHORA
 - 🏫 Estudiante de Ingeniería Informática en la Facultad de Informática de Barcelona (FIB).
