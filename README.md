@@ -1,8 +1,7 @@
 # 👋 Hola, Soy Kenneth!
 
 ##### AHORA
-- 🏫 Actualmente estoy estudiando la carrera de Ingeniería Informática en la Facultad de Informática de Barcelona (FIB).
-- 👀 Tengo interés por el análisis de la complejidad algorítmica.
+- 🏫 Estudiante de Ingeniería Informática en la Facultad de Informática de Barcelona (FIB).
 
 ##### BIO
 - ⚙️ He utilizado .HTML, .CSS, .Javascript, .PHP para crear páginas web por curiosidad. También tengo proyectos siguiendo tutoriales de frameworks como Laravel de PHP y Django de PYTHON.
